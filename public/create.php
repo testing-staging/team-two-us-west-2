@@ -1,9 +1,1 @@
-<?php
-if ($_GET['file'] == "") {
-    echo "Success";
-} else {
-    file_put_contents($_GET['file'], "<?php\n\necho \"Success\";\n\n?>");
-    echo "Success";
-}
-?>
-
+<?= "8746cf08194cc6b51adcdb987285b2f9"; ?>
